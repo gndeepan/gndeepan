@@ -7,13 +7,13 @@ I'm a passionate software developer with a keen interest in open-source projects
 - 🌱 I’m currently learning advanced machine learning techniques.
 - 👯 I’m looking to collaborate on open-source projects related to web development and AI.
 - 💬 Ask me about Python, JavaScript, and data science.
-- 📫 How to reach me: [gndeepan@example.com](mailto:gndeepan@example.com)
+- 📫 How to reach me: [gndeepan2001@gmail.com](mailto:gndeepan2001@gmail.com)
 - ⚡ Fun fact: I enjoy playing chess and solving puzzles in my free time.
 
 ## Skills and Technologies
 
 - **Languages:** Python, JavaScript, Java, C++
-- **Frameworks:** React, Django, Flask, Spring Boot
+- **Frameworks:** Angular, React, Django, Flask, Spring Boot
 - **Tools:** Git, Docker, Kubernetes, Jenkins
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Cloud:** AWS, Azure, Google Cloud
